@@ -9,29 +9,29 @@ This project aims to analyze merchandise sales data to uncover key performance t
 ## Dataset Overview
 The dataset contains transactional-level records with the following key fields:
 
-Column	Description
-Order ID	Unique identifier for each order.
-Order Date	Timestamp of when the order was placed.
-Product ID	Unique identifier for each product sold.
-Product Category	Type of product sold: Clothing, Ornaments, or Other.
-Buyer Gender	Gender of the customer (Male/Female).
-Buyer Age	Age of the customer.
-Order Location	City where the order was made.
-Latitude / Longitude	Geolocation data for mapping city-level sales.
-International Shipping	Whether the order was international (Yes/No).
-Sales Price	Base price of the product.
-Shipping Charges	Additional cost for international shipping.
-Sales per Unit	Final unit price including shipping.
-Quantity	Number of units purchased.
-Total Sales	Total revenue for the order.
-Rating	Star rating (1–5) provided by customer.
-Review	Customer review comments (text-based sentiment).
+- Column	Description
+- Order ID	Unique identifier for each order.
+- Order Date	Timestamp of when the order was placed.
+- Product ID	Unique identifier for each product sold.
+- Product Category	Type of product sold: Clothing, Ornaments, or Other.
+- Buyer Gender	Gender of the customer (Male/Female).
+- Buyer Age	Age of the customer.
+- Order Location	City where the order was made.
+- Latitude / Longitude	Geolocation data for mapping city-level sales.
+- International Shipping	Whether the order was international (Yes/No).
+- Sales Price	Base price of the product.
+- Shipping Charges	Additional cost for international shipping.
+- Sales per Unit	Final unit price including shipping.
+- Quantity	Number of units purchased.
+- Total Sales	Total revenue for the order.
+- Rating	Star rating (1–5) provided by customer.
+- Review	Customer review comments (text-based sentiment).
 
 Power BI was used for data modeling, KPI analysis, and dashboard creation to deliver a clear and interactive summary of key business drivers.
 
 ## Executive Summary
 
-The merchandise sales analysis covering one year (Nov 2023 to Nov 2024) reveals a total revenue of $856K, with the United States contributing the most ($283K), followed by the United Kingdom ($55K). Clothing is the top-selling category, accounting for approximately 75% of sales.
+The merchandise sales analysis covering one year (Nov 2023 to Nov 2024) reveals a total revenue of $856K, with the United States contribut ing the most ($283K), followed by the United Kingdom ($55K). Clothing is the top-selling category, accounting for approximately 75% of sales. 
 
 The core customer segment consists of males aged 21–35, contributing significantly to order volume and revenue. Domestic orders dominate shipping volume, but international cities like Sydney and Mumbai have higher average order values, offering a premium revenue opportunity.
 
