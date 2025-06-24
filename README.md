@@ -44,7 +44,7 @@ To drive growth, the business should expand high-performing product lines, intro
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa50f33e-5c21-4a25-8d73-b0e761306420)" alt="Merchandise Dashboard Page 2" width="700"/>
+  <img src="https://github.com/user-attachments/assets/fa50f33e-5c21-4a25-8d73-b0e761306420" alt="Merchandise Dashboard Page 2" width="700"/>
 </p>
 
 <p align="center">
