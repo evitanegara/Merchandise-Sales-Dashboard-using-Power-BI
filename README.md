@@ -23,7 +23,10 @@ To drive growth, the business should expand high-performing product lines, intro
 - In contrast, November 2024 saw a dramatic drop to $10K, suggesting a potential seasonal downturn or missing reporting.
 - Between February and September, sales remained stable, consistently ranging between $66K–$77K, reflecting reliable mid-year demand.
 - Throughout the year, Clothing led all categories, contributing 65–75% of monthly revenue and significantly outperforming both Ornaments and Other products.
-<img src="https://github.com/user-attachments/assets/abc123.png" alt="Monthly Sales Trend" width="600"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abc123.png" alt="Monthly Sales Trend" width="700"/>
+</p>
+
 
 
 ### 2. Key Product Performance
