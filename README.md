@@ -61,8 +61,8 @@ To drive growth, the business should expand high-performing product lines, intro
 - International orders incur high shipping costs, such as $18.4K in Sydney and $13K in Mumbai, yet these often come with higher-value purchases, evidenced by elevated AOVs.
 - Across all markets, Clothing remained dominant, with 4.3K units shipped domestically and 1.8K internationally, indicating consistent demand across regions.
 - Ornaments and Other categories followed the same trend—greater sales volumes domestically than internationally.
-  ![image](https://github.com/user-attachments/assets/49d579c7-d6a4-41de-9581-e88468c343d8)
-  ![image](https://github.com/user-attachments/assets/42cc6bc1-99f7-4950-950c-2e6b48c5d6af)
+![image](https://github.com/user-attachments/assets/5ce4f832-d53e-4d32-8e4f-969884a2a4c1)
+![image](https://github.com/user-attachments/assets/42cc6bc1-99f7-4950-950c-2e6b48c5d6af)
 
 
 
