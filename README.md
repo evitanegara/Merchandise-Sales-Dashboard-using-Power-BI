@@ -128,3 +128,6 @@ To drive growth, the business should expand high-performing product lines, intro
 - Leverage High-AOV International Cities: Offer "Free Shipping Over $X" in high-value regions like Sydney, Mumbai, and New Delhi.
 - Explore Underperforming Markets: Analyze low-performing regions like France and test region-specific ads, bundles, or product adjustments.
 
+# Contact
+For any questions or inquiries, please contact evitanegara@gmail.com
+
