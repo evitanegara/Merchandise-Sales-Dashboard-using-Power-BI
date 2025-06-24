@@ -24,8 +24,9 @@ To drive growth, the business should expand high-performing product lines, intro
 - Between February and September, sales remained stable, consistently ranging between $66K–$77K, reflecting reliable mid-year demand.
 - Throughout the year, Clothing led all categories, contributing 65–75% of monthly revenue and significantly outperforming both Ornaments and Other products.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/abc123.png" alt="Monthly Sales Trend" width="700"/>
+  <img src="https://github.com/user-attachments/assets/556d6d82-a230-4dcb-a21d-ead414c137c6" alt="Monthly Sales Trend" width="700"/>
 </p>
+
 
 
 
