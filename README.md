@@ -33,9 +33,11 @@ To drive growth, the business should expand high-performing product lines, intro
 - The top five products by revenue—BF1548 (~$190K), BF1543, BF1550, BF1549, and BF1546—were all from the Clothing category, reinforcing its commercial strength.
 - Customer sentiment indicates room for improvement: only 60% of reviews were positive, while 25% were negative and 15% neutral, resulting in an average product rating of 3.5.
 - Among product categories, "Other" items had the highest average rating (3.58), followed by Clothing (3.50) and Ornaments (3.45).
-![image](https://github.com/user-attachments/assets/0b9994db-f7be-4633-bf05-6581b6e9b6e8)
+
 ![image](https://github.com/user-attachments/assets/57f633a6-3e5c-47f2-9e13-556e6663e9a3)
 ![image](https://github.com/user-attachments/assets/7857fa20-9750-4ce5-9b0c-66500e4afd38)
+![image](https://github.com/user-attachments/assets/2f5d786f-e510-42fe-b35b-9167bfa7673d)
+
 
 
 
@@ -60,6 +62,8 @@ To drive growth, the business should expand high-performing product lines, intro
 - Across all markets, Clothing remained dominant, with 4.3K units shipped domestically and 1.8K internationally, indicating consistent demand across regions.
 - Ornaments and Other categories followed the same trend—greater sales volumes domestically than internationally.
   ![image](https://github.com/user-attachments/assets/49d579c7-d6a4-41de-9581-e88468c343d8)
+  ![image](https://github.com/user-attachments/assets/42cc6bc1-99f7-4950-950c-2e6b48c5d6af)
+
 
 
 ### 5. Customer Demographics & Segmentation
