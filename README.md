@@ -23,6 +23,8 @@ To drive growth, the business should expand high-performing product lines, intro
 - In contrast, November 2024 saw a dramatic drop to $10K, suggesting a potential seasonal downturn or missing reporting.
 - Between February and September, sales remained stable, consistently ranging between $66K–$77K, reflecting reliable mid-year demand.
 - Throughout the year, Clothing led all categories, contributing 65–75% of monthly revenue and significantly outperforming both Ornaments and Other products.
+  ![image](https://github.com/user-attachments/assets/cb7d1624-cec7-47b3-adb5-69f54661234c)
+
 
 ### 2. Key Product Performance
 
@@ -31,6 +33,12 @@ To drive growth, the business should expand high-performing product lines, intro
 - The top five products by revenue—BF1548 (~$190K), BF1543, BF1550, BF1549, and BF1546—were all from the Clothing category, reinforcing its commercial strength.
 - Customer sentiment indicates room for improvement: only 60% of reviews were positive, while 25% were negative and 15% neutral, resulting in an average product rating of 3.5.
 - Among product categories, "Other" items had the highest average rating (3.58), followed by Clothing (3.50) and Ornaments (3.45).
+![image](https://github.com/user-attachments/assets/0b9994db-f7be-4633-bf05-6581b6e9b6e8)
+![image](https://github.com/user-attachments/assets/57f633a6-3e5c-47f2-9e13-556e6663e9a3)
+![image](https://github.com/user-attachments/assets/7857fa20-9750-4ce5-9b0c-66500e4afd38)
+
+
+
 
 ### 3. Geographic Sales Performance
 
@@ -39,6 +47,10 @@ To drive growth, the business should expand high-performing product lines, intro
 - Despite lower volume, Sydney recorded the highest city-level sales ($48K), driven by a high AOV of $261 and $18.4K in shipping charges.
 - San Francisco had the highest domestic order quantity (746 units) and generated $41K in sales with $0 shipping cost, reflecting strong local fulfillment efficiency.
 - Cities like Mumbai and New Delhi reported solid performance with $38K and $36K in sales respectively, despite higher international shipping fees.
+  ![image](https://github.com/user-attachments/assets/bb4d9aa9-4a28-4b24-b607-825425fe7e9c)
+  ![image](https://github.com/user-attachments/assets/e20ebff0-e94e-4b3f-ad59-e1d20e23e50c)
+
+
 
 ### 4. Shipping Insights
 
@@ -47,6 +59,8 @@ To drive growth, the business should expand high-performing product lines, intro
 - International orders incur high shipping costs, such as $18.4K in Sydney and $13K in Mumbai, yet these often come with higher-value purchases, evidenced by elevated AOVs.
 - Across all markets, Clothing remained dominant, with 4.3K units shipped domestically and 1.8K internationally, indicating consistent demand across regions.
 - Ornaments and Other categories followed the same trend—greater sales volumes domestically than internationally.
+  ![image](https://github.com/user-attachments/assets/49d579c7-d6a4-41de-9581-e88468c343d8)
+
 
 ### 5. Customer Demographics & Segmentation
 
@@ -68,6 +82,9 @@ To drive growth, the business should expand high-performing product lines, intro
 - Across all age segments, Clothing remains the most preferred category.
 - Younger buyers (18–25) also purchase Ornaments and Other items at a slightly higher proportion.
 - Older buyers (26–35) prioritize higher-end Clothing products, contributing more to total revenue.
+![image](https://github.com/user-attachments/assets/db5fc8c8-bbfa-4624-a27d-6725990b2774)
+![image](https://github.com/user-attachments/assets/3b4746e5-d46f-48cb-a8da-0a7b604f78dd)
+
 
 ### 6. City-Level Customer Behavior
 
@@ -76,6 +93,8 @@ To drive growth, the business should expand high-performing product lines, intro
 - San Francisco: 414 orders
 - These cities contribute significantly to domestic performance, benefiting from free shipping and faster delivery.
 - In contrast, international cities like Sydney, Mumbai, and New Delhi placed fewer orders, but had a much higher AOV, balancing overall contribution.
+  ![image](https://github.com/user-attachments/assets/4f17f161-9246-4410-a919-ab64eb7d58d2)
+
 
 ## Recommendations
 
