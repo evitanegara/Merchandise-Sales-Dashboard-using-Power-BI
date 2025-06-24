@@ -37,6 +37,22 @@ The core customer segment consists of males aged 21–35, contributing significa
 
 To drive growth, the business should expand high-performing product lines, introduce seasonal bundles, and enhance loyalty initiatives. Strategic use of social media, optimized shipping, and localized campaigns in underperforming regions can boost both customer retention and global sales performance.
 
+## Visualization
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5006e9f1-4031-440c-a499-63deaf7d035b" alt="Merchandise Dashboard Page 1" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e97c34af-b08f-4109-b201-6f86864bafbe" alt="Merchandise Dashboard Page 2" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d336e6af-c1bb-4637-ba4b-572bbabe6da7" alt="Merchandise Dashboard Page 3" width="700"/>
+</p>
+
+
+
 ## Insights Deep-Dive
 
 ### 1. Monthly Sales Trend
