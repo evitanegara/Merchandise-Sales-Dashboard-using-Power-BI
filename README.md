@@ -59,8 +59,14 @@ To drive growth, the business should expand high-performing product lines, intro
 - Despite lower volume, Sydney recorded the highest city-level sales ($48K), driven by a high AOV of $261 and $18.4K in shipping charges.
 - San Francisco had the highest domestic order quantity (746 units) and generated $41K in sales with $0 shipping cost, reflecting strong local fulfillment efficiency.
 - Cities like Mumbai and New Delhi reported solid performance with $38K and $36K in sales respectively, despite higher international shipping fees.
-  ![image](https://github.com/user-attachments/assets/bb4d9aa9-4a28-4b24-b607-825425fe7e9c)
-  ![image](https://github.com/user-attachments/assets/e20ebff0-e94e-4b3f-ad59-e1d20e23e50c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb4d9aa9-4a28-4b24-b607-825425fe7e9c" alt="City-Level Sales Performance" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e20ebff0-e94e-4b3f-ad59-e1d20e23e50c" alt="Country-Level Sales Table" width="700"/>
+</p>
+
 
 
 
@@ -71,8 +77,14 @@ To drive growth, the business should expand high-performing product lines, intro
 - International orders incur high shipping costs, such as $18.4K in Sydney and $13K in Mumbai, yet these often come with higher-value purchases, evidenced by elevated AOVs.
 - Across all markets, Clothing remained dominant, with 4.3K units shipped domestically and 1.8K internationally, indicating consistent demand across regions.
 - Ornaments and Other categories followed the same trend—greater sales volumes domestically than internationally.
-![image](https://github.com/user-attachments/assets/5ce4f832-d53e-4d32-8e4f-969884a2a4c1)
-![image](https://github.com/user-attachments/assets/42cc6bc1-99f7-4950-950c-2e6b48c5d6af)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ce4f832-d53e-4d32-8e4f-969884a2a4c1" alt="Total Quantity Shipped by Shipping Method" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42cc6bc1-99f7-4950-950c-2e6b48c5d6af" alt="Shipping Volume by Product Category" width="700"/>
+</p>
+
 
 
 
@@ -96,9 +108,14 @@ To drive growth, the business should expand high-performing product lines, intro
 - Across all age segments, Clothing remains the most preferred category.
 - Younger buyers (18–25) also purchase Ornaments and Other items at a slightly higher proportion.
 - Older buyers (26–35) prioritize higher-end Clothing products, contributing more to total revenue.
-![image](https://github.com/user-attachments/assets/db5fc8c8-bbfa-4624-a27d-6725990b2774)
-![image](https://github.com/user-attachments/assets/3b4746e5-d46f-48cb-a8da-0a7b604f78dd)
+- 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db5fc8c8-bbfa-4624-a27d-6725990b2774" alt="Product Category Preferences by Age Group" width="700"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b4746e5-d46f-48cb-a8da-0a7b604f78dd" alt="Revenue Contribution by Age Segment" width="700"/>
+</p>
 
 ### 6. City-Level Customer Behavior
 
@@ -107,7 +124,10 @@ To drive growth, the business should expand high-performing product lines, intro
 - San Francisco: 414 orders
 - These cities contribute significantly to domestic performance, benefiting from free shipping and faster delivery.
 - In contrast, international cities like Sydney, Mumbai, and New Delhi placed fewer orders, but had a much higher AOV, balancing overall contribution.
-  ![image](https://github.com/user-attachments/assets/4f17f161-9246-4410-a919-ab64eb7d58d2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f17f161-9246-4410-a919-ab64eb7d58d2" alt="City-Level Customer Behavior" width="700"/>
+</p>
+
 
 
 ## Recommendations
