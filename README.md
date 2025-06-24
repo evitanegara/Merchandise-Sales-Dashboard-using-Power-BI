@@ -1,11 +1,11 @@
 # Merchandise-Sales-Dashboard-using-Power-BI
 Merchandise Sales Analysis Dashboard
 
-📌 Project Background
+# Project Background
 
 This project aims to analyze merchandise sales data to uncover key performance trends across product categories, customer demographics, and geographic locations. The goal is to provide actionable insights that help optimize marketing strategies, product offerings, and customer engagement for better business outcomes.
 
-📈 Executive Summary
+# Executive Summary
 
 The merchandise sales analysis covering one year (Nov 2023 to Nov 2024) reveals a total revenue of $856K, with the United States contributing the most ($283K), followed by the United Kingdom ($55K). Clothing is the top-selling category, accounting for approximately 75% of sales. The core customer segment consists of males aged 21–35, contributing significantly to order volume and revenue. Domestic orders dominate shipping volume, but international cities like Sydney and Mumbai have higher average order values, offering a premium revenue opportunity.
 
