@@ -27,9 +27,6 @@ To drive growth, the business should expand high-performing product lines, intro
   <img src="https://github.com/user-attachments/assets/556d6d82-a230-4dcb-a21d-ead414c137c6" alt="Monthly Sales Trend" width="700"/>
 </p>
 
-
-
-
 ### 2. Key Product Performance
 
 - Clothing emerged as the top-performing category, generating $637K from 6.1K units sold, representing nearly 75% of total sales.
@@ -38,9 +35,18 @@ To drive growth, the business should expand high-performing product lines, intro
 - Customer sentiment indicates room for improvement: only 60% of reviews were positive, while 25% were negative and 15% neutral, resulting in an average product rating of 3.5.
 - Among product categories, "Other" items had the highest average rating (3.58), followed by Clothing (3.50) and Ornaments (3.45).
 
-![image](https://github.com/user-attachments/assets/57f633a6-3e5c-47f2-9e13-556e6663e9a3)
-![image](https://github.com/user-attachments/assets/7857fa20-9750-4ce5-9b0c-66500e4afd38)
-![image](https://github.com/user-attachments/assets/2f5d786f-e510-42fe-b35b-9167bfa7673d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57f633a6-3e5c-47f2-9e13-556e6663e9a3" alt="Top 5 Products by Sales" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7857fa20-9750-4ce5-9b0c-66500e4afd38" alt="Customer Review Sentiments" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f5d786f-e510-42fe-b35b-9167bfa7673d" alt="Sales by Product Category" width="700"/>
+</p>
+
 
 
 
