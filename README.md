@@ -1,4 +1,3 @@
-# Merchandise-Sales-Dashboard-using-Power-BI
 
 ## Merchandise Sales Analysis Dashboard
 
