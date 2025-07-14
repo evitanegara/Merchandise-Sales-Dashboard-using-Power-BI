@@ -147,7 +147,7 @@ To drive growth, the business should expand high-performing product lines, intro
 - Across all age segments, Clothing remains the most preferred category.
 - Younger buyers (18–25) also purchase Ornaments and Other items at a slightly higher proportion.
 - Older buyers (26–35) prioritize higher-end Clothing products, contributing more to total revenue.
-- 
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db5fc8c8-bbfa-4624-a27d-6725990b2774" alt="Product Category Preferences by Age Group" width="700"/>
 </p>
