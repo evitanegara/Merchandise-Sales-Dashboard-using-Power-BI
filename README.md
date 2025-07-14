@@ -116,7 +116,7 @@ To drive growth, the business should expand high-performing product lines, intro
 - Domestic shipping is free, which may have helped increase conversion and order frequency.
 - International orders incur high shipping costs, such as $18.4K in Sydney and $13K in Mumbai, yet these often come with higher-value purchases, evidenced by elevated AOVs.
 - Across all markets, Clothing remained dominant, with 4.3K units shipped domestically and 1.8K internationally, indicating consistent demand across regions.
-- Ornaments and Other categories followed the same trend—greater sales volumes domestically than internationally.
+- Ornaments and Other categories followed the same trend, greater sales volumes domestically than internationally.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ce4f832-d53e-4d32-8e4f-969884a2a4c1" alt="Total Quantity Shipped by Shipping Method" width="700"/>
 </p>
