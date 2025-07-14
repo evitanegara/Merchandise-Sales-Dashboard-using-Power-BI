@@ -71,7 +71,7 @@ To drive growth, the business should expand high-performing product lines, intro
 
 - Clothing emerged as the top-performing category, generating $637K from 6.1K units sold, representing nearly 75% of total sales.
 - Ornaments followed with $156K in revenue from 3.8K units, and Other products generated $63K from 2.5K units.
-- The top five products by revenue—BF1548 (~$190K), BF1543, BF1550, BF1549, and BF1546—were all from the Clothing category, reinforcing its commercial strength.
+- The top five products by revenue, BF1548 (~$190K), BF1543, BF1550, BF1549, and BF1546—were all from the Clothing category, reinforcing its commercial strength.
 - Customer sentiment indicates room for improvement: only 60% of reviews were positive, while 25% were negative and 15% neutral, resulting in an average product rating of 3.5.
 - Among product categories, "Other" items had the highest average rating (3.58), followed by Clothing (3.50) and Ornaments (3.45).
 
